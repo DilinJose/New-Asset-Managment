@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="insta" transform="translate(0.011)">
+    <g id="Group_1766" data-name="Group 1766" transform="translate(-0.011 0)">
+      <circle id="Ellipse_49" data-name="Ellipse 49" cx="27" cy="27" r="27" transform="translate(0)" fill="#0dac6a"/>
+    </g>
+    <g id="Icon_feather-instagram" data-name="Icon feather-instagram" transform="translate(14.989 15)">
+      <path id="Path_4999" data-name="Path 4999" d="M9.076,3H21.229a6.076,6.076,0,0,1,6.076,6.076V21.229a6.076,6.076,0,0,1-6.076,6.076H9.076A6.076,6.076,0,0,1,3,21.229V9.076A6.076,6.076,0,0,1,9.076,3Z" transform="translate(-3 -3)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5000" data-name="Path 5000" d="M21.735,16.083a4.861,4.861,0,1,1-4.1-4.1,4.861,4.861,0,0,1,4.1,4.1Z" transform="translate(-4.72 -4.696)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_5001" data-name="Path 5001" d="M26.25,9.75h0" transform="translate(-7.413 -4.281)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

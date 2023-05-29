@@ -1,0 +1,22 @@
+.error-msg {
+  color: red;
+}
+.background{
+  height: 100vh;
+  background-image: url('../img/img1.jpg');
+  background-size: cover;
+}
+
+.backgroundForm{
+  border: soild black;
+  /* height: 130vh; */
+  background-image: url('../img/img3.jpg');
+  background-size: cover;
+}
+.backgroundForm1{
+  height: 40rem;
+}
+
+.card{
+  opacity: 0.5;
+}
